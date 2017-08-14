@@ -1,0 +1,17 @@
+{
+  "name": "searchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Alyssa Ong",
+  "license": "ISC",
+  "dependencies": {
+    "azure-search": "0.0.15",
+    "botbuilder": "^3.9.0",
+    "restify": "^5.1.0"
+  }
+}
